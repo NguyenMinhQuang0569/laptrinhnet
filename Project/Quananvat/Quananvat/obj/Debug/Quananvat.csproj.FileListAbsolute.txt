@@ -1,0 +1,13 @@
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\bin\Debug\Quananvat.exe.config
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\bin\Debug\Quananvat.exe
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\bin\Debug\Quananvat.pdb
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.csprojAssemblyReference.cache
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.FormLogin.resources
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.Properties.Resources.resources
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.csproj.GenerateResource.cache
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.csproj.CoreCompileInputs.cache
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.exe
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.pdb
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.FormTableManager.resources
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.FormAccountProfile.resources
+E:\Học tập\Đồ án.net\Project\Quananvat\Quananvat\obj\Debug\Quananvat.FormAdmin.resources
